@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-format: html
 ---
 
 1.  Wu, H., Weinstein, S., Moore, L.E. et al. Coffee intake and trace element blood concentrations in association with renal cell cancer among smokers. Cancer Causes Control (2021). <https://doi.org/10.1007/s10552-021-01505-2>
