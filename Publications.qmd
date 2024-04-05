@@ -3,7 +3,6 @@ title: "Publications"
 format: html
 ---
 
-
 1.  Wu, H., Weinstein, S., Moore, L.E. et al. Coffee intake and trace element blood concentrations in association with renal cell cancer among smokers. Cancer Causes Control (2021). <https://doi.org/10.1007/s10552-021-01505-2>
 2.  Wu H, Wang M, Raman JD, McDonald AC. Association between urinary arsenic, blood cadmium, blood lead, and blood mercury levels and serum prostate-specific antigen in a population-based cohort of men in the United States. PLoS One. 2021 Apr 23;16(4):e0250744. doi: 10.1371/journal.pone.0250744. PMID: 33891655.
 3.  Hongke Wu, Melanie Potiaumpai, Shawna E. Doerksen, FACSM, Vernon M. Chinchilli, Li Wang, Rachel Lintz, Kathryn H. Schmitz, FACSM. Cost Evaluation of An Exercise Oncology Intervention: The ENACT Trial. Poster Presentation at the American College of Sports Medicine (ACSM) 2021 Annual Meeting. June 1-5, 2021; Virtual Meeting. #3715.

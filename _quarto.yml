@@ -4,13 +4,15 @@ project:
 website:
   title: "Hongke (Amy) Wu"
   navbar:
-    background: secondary
+    background: primary
     search: true
     left:
       - href: index.qmd
         text: Profile
-      - Publications.qmd
-      - Post.qmd
+      - href: Publications.qmd
+        text: Publications
+      - href: Post.qmd
+        text: Post
 format:
   html:
     theme: quartz

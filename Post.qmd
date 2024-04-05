@@ -11,7 +11,7 @@ listing:
 
 :::{#Post}
 
-Thoughts are generating...
+Thoughts are being generated...
 
 
 :::
