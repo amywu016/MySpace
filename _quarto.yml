@@ -23,5 +23,7 @@ format:
     theme: quartz
     fontsize: 1.1em
     mainfont: cursive
+    grid: 
+      body-width: 1000px
     css: styles.css
     toc: true
