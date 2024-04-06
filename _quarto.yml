@@ -4,7 +4,11 @@ project:
 website:
   title: "Hongke (Amy) Wu"
   navbar:
-    background: primary
+    background: dark
+    foreground: info
+    border: true
+    alignment: center
+    style: floating
     search: true
     left:
       - href: index.qmd
@@ -13,10 +17,11 @@ website:
         text: Publications
       - href: Post.qmd
         text: Post
+  page-footer: "Philippians 4:13 - I can do all things through him who strengthens me."
 format:
   html:
     theme: quartz
+    fontsize: 1.1em
+    mainfont: cursive
     css: styles.css
     toc: true
-
-

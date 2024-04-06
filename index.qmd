@@ -4,8 +4,8 @@ image: "cartoon.png"
 toc: false
 about:
   id: ppc
-  template: solana
-  image-width: 20em
+  template: jolla
+  image-width: 15em
   image-shape: round
   links:
   - text: Email
@@ -17,6 +17,9 @@ about:
   - text: ORCID
     icon: link-45deg
     href: https://orcid.org/0000-0003-1835-4600
+  - text: Google Scholar
+    icon: google
+    href: https://scholar.google.com/citations?user=TAlRGhoAAAAJ&hl=en
 ---
 
 ::: {#ppc}
