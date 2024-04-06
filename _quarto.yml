@@ -22,7 +22,7 @@ format:
   html:
     theme: quartz
     fontsize: 1.1em
-    mainfont: cursive
+    mainfont: consolas
     grid: 
       body-width: 1000px
     css: styles.css
