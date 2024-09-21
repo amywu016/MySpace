@@ -7,13 +7,9 @@ listing:
 ---
 
 
-## June
+## 2024
 
 :::{#Post}
-
-Apparently, no post in April or May...
-
-
 
 
 :::

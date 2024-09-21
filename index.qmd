@@ -23,11 +23,12 @@ about:
 ---
 
 ::: {#ppc}
-I am a Master's student in Biostatistics program at Case Western Reserve University with interdisciplinary backgrounds from Epidemiology and Clinical Medicine. My research interests include but not limited to cancer, dementia, environmental health, and nutrition.
+
+Experienced biostatistician with medical expertise, adept at developing statistical programs that combine medical knowledge with data-driven techniques for comprehensive insights. Collaborative researcher with a proven track record of working with interdisciplinary teams to design and implement impactful studies, while advocating for public health by providing valuable disease information to patients and healthcare providers.
 
 ## Education
 
-M.S. in Biostatistics \| Case Western Reserve University \| Cleveland, OH \| Aug 2023 - present
+M.S. in Biostatistics \| Case Western Reserve University \| Cleveland, OH \| Aug 2023 - Aug 2024
 
 M.P.H in Epidemiology \| Tulane University \| New Orleans, LA \| Aug 2016 - May 2018
 
@@ -62,6 +63,10 @@ American Association of Cancer Research (AACR) \| Association Member \| Apr 2019
 ## Service
 
 Assistant Editor \| The Journal of Student-Run Clinics (JSRC) \| July 2021 - present
+
+Abstract Reviewer \| American Public Health Association (APHA) Annual Meeting \| 2020/2021/2024 
+
+Invited Manuscript Reviewer (2024) \| Frontiers in Oncology
 
 ## Volunteer Experience
 
