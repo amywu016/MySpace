@@ -24,7 +24,7 @@ about:
 
 ::: {#ppc}
 
-Experienced biostatistician with medical expertise, adept at developing statistical programs that combine medical knowledge with data-driven techniques for comprehensive insights. Collaborative researcher with a proven track record of working with interdisciplinary teams to design and implement impactful studies, while advocating for public health by providing valuable disease information to patients and healthcare providers.
+Experienced biostatistician with medical expertise, adept at developing statistical programs that combine medical knowledge with data-driven techniques for comprehensive insights. Collaborative researcher with a proven track record of working with interdisciplinary teams to design and implement impactful studies while advocating for public health by providing valuable disease information to patients and healthcare providers.
 
 ## Education
 
@@ -35,8 +35,6 @@ M.P.H in Epidemiology \| Tulane University \| New Orleans, LA \| Aug 2016 - May 
 M.D. in Clinical Medicine \| Hubei University for Nationalities \| Enshi, China \| Sep 2011 - Jun 2016
 
 ## Working Experience
-
-Data Scientist \| University of Alabama at Birmingham \| Nov 2024 - current
 
 Visiting Researcher \| Cleveland Clinic \| Sep 2024 - current
 
