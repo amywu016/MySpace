@@ -1,0 +1,85 @@
+---
+title: "Hongke (Amy) Wu"
+image: "cartoon.png"
+toc: false
+about:
+  id: ppc
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+  - text: Email
+    icon: envelope
+    href: mailto:amywu016@gmail.com
+  - text: Linkedin
+    icon: linkedin
+    href: https://www.linkedin.com/in/hongke-wu/
+  - text: ORCID
+    icon: link-45deg
+    href: https://orcid.org/0000-0003-1835-4600
+  - text: Google Scholar
+    icon: google
+    href: https://scholar.google.com/citations?user=TAlRGhoAAAAJ&hl=en
+---
+
+::: {#ppc}
+
+Experienced biostatistician with medical expertise, adept at developing statistical programs that combine medical knowledge with data-driven techniques for comprehensive insights. Collaborative researcher with a proven track record of working with interdisciplinary teams to design and implement impactful studies, while advocating for public health by providing valuable disease information to patients and healthcare providers.
+
+## Education
+
+M.S. in Biostatistics \| Case Western Reserve University \| Cleveland, OH \| Aug 2023 - Aug 2024
+
+M.P.H in Epidemiology \| Tulane University \| New Orleans, LA \| Aug 2016 - May 2018
+
+M.D. in Clinical Medicine \| Hubei University for Nationalities \| Enshi, China \| Sep 2011 - Jun 2016
+
+## Working Experience
+
+Data Scientist \| University of Alabama at Birmingham \| Nov 2024 - current
+
+Visiting Researcher \| Cleveland Clinic \| Sep 2024 - current
+
+Biostatistician Intern \| Cleveland Clinic \| Summer 2024
+
+Teaching Assistant \| Case Western Reserve University \| Fall 2023
+
+Teaching Assistant \| Penn State College of Medicine \| Fall 2020/2021/2022
+
+Physician Intern \| Ma'anshan Central Hospital \| Oct 2014 - Feb 2016
+
+## Research Experience
+
+Research Assistant \| Case Western Reserve University \| Aug 2023 - present
+
+Graduate Research Assistant \| Penn State College of Medicine \| Aug 2020 - Aug 2023
+
+Research Assistant \| Tulane University \| April 2017 - April 2018
+
+## Membership
+
+American Statistical Association (ASA) \| Student Member \| Aug 2023 - present
+
+American Public Health Association (APHA) \| Student Member \| Jun 2019 - present
+
+American Association of Cancer Research (AACR) \| Association Member \| Apr 2019 - present
+
+## Service
+
+Assistant Editor \| The Journal of Student-Run Clinics (JSRC) \| July 2021 - present
+
+Abstract Reviewer \| American Public Health Association (APHA) Annual Meeting \| 2020/2021/2024 
+
+Invited Manuscript Reviewer (2024) \| Frontiers in Oncology
+
+## Volunteer Experience
+
+Volunteer Abstract Reviewer \| American Public Health Association (APHA) \| 2019/2020/2024
+
+Volunteer \| 5K Pasta Run, American Lung Association (ALA) \| Aug 2019
+
+Pianist \| New Orleans Chinese Baptist Church (NOCBC) \| 2017 - 2018
+
+Medical Volunteer \| Gapper; Friendship United Nepal; United Efforts Nepal \| Feb 2015
+
+:::
