@@ -15,9 +15,7 @@ website:
         text: Profile
       - href: Publications.qmd
         text: Publications
-#      - href: Post.qmd
-#        text: Post
-  page-footer: "Philippians 4:13 - I can do all things through him who strengthens me."
+  page-footer: "Philippians 4:13"
 format:
   html:
     theme: quartz
