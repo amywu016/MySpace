@@ -1,5 +1,5 @@
 ---
-title: "Hongke (Amy) Wu"
+title: "Hongke (Amy) Wu,MD,MPH,MS"
 image: "cartoon.png"
 toc: false
 about:
