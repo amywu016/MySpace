@@ -24,7 +24,7 @@ about:
 
 ::: {#ppc}
 
-Experienced biostatistician with medical expertise, adept at developing statistical programs that combine medical knowledge with data-driven techniques for comprehensive insights. Collaborative researcher with a proven track record of working with interdisciplinary teams to design and implement impactful studies while advocating for public health by providing valuable disease information to patients and healthcare providers.
+Experienced biostatistician with medical expertise, adept at developing statistical programs that combine medical knowledge with data-driven techniques for comprehensive insights. Collaborative researcher with a proven track record of working with interdisciplinary teams to design and implement impactful studies, while advocating for public health by providing valuable disease information to patients and healthcare providers.
 
 ## Education
 
