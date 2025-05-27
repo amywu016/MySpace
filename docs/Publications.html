@@ -67,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -132,20 +161,20 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In-processed Papers:</p>
+<p><span class="math display">\[\text{In-processed Papers}\]</span></p>
 <ol type="1">
 <li><p>Hongke Wu, Ye Liu, Jingyi Zhang, Bisakha Sen, Jeffrey R. Curtis. Individual and Community-level Determinants of Osteoporosis Treatment Following Fracture Among Medicare Beneficiaries. (Submitted)</p></li>
 <li><p>Hongke Wu, Alicia McDonald, Ming Wang. Association between dietary intake and urinary concentrations of caffeine and caffeine metabolites and elevated serum prostatic specific antigen (PSA) among men at risk for prostate cancer. (Accepted by Cancer Causes Control (2025))</p></li>
 </ol>
-<p>2025 Accepted Conference Abstracts:</p>
+<p><span class="math display">\[\text{2025 Accepted Conference Abstracts}\]</span></p>
 <ol type="1">
 <li><p>Ye Liu, Hongke Wu, Tarun Arora, Jeffrey R Curtis. Association Between Past Osteoporosis Treatment Adherence and Romosozumab Adherence Among Early Adopters: A Trajectory Analysis. (SMDM 2025, Abstract ID: 31891)</p></li>
 <li><p>Hongke Wu, Ye Liu, Tarun Arora, Jeffrey R Curtis. Bayesian Analysis of Factors Associated with Romosozumab Adherence Among Early Adopters in Medicare Beneficiaries. (ISPE 2025, Abstract ID: 2055366)</p></li>
 <li><p>Ye Liu, Hongke Wu, Tarun Arora, Jeffrey R Curtis. Comedication Patterns of Romosozumab Early Adopters Among Medicare Enrollees: An Unsupervised Clustering Approach. (ISPE 2025)</p></li>
 </ol>
-<p>Published Papers/Abstracts:</p>
-<p>1.Wu, H., Weinstein, S., Moore, L.E. et al.&nbsp;Coffee intake and trace element blood concentrations in association with renal cell cancer among smokers. Cancer Causes Control (2021). <a href="https://doi.org/10.1007/s10552-021-01505-2" class="uri">https://doi.org/10.1007/s10552-021-01505-2</a></p>
-<ol start="2" type="1">
+<p><span class="math display">\[\text{Published Papers/Abstracts}\]</span></p>
+<ol type="1">
+<li><p>Wu, H., Weinstein, S., Moore, L.E. et al.&nbsp;Coffee intake and trace element blood concentrations in association with renal cell cancer among smokers. Cancer Causes Control (2021). <a href="https://doi.org/10.1007/s10552-021-01505-2" class="uri">https://doi.org/10.1007/s10552-021-01505-2</a></p></li>
 <li><p>Wu H, Wang M, Raman JD, McDonald AC. Association between urinary arsenic, blood cadmium, blood lead, and blood mercury levels and serum prostate-specific antigen in a population-based cohort of men in the United States. PLoS One. 2021 Apr 23;16(4):e0250744. doi: 10.1371/journal.pone.0250744. PMID: 33891655.</p></li>
 <li><p>Pillai, Jagan, Hongke Wu, Wen Tang, Hao Feng, Chixiang Chen, James Leverenz, and Ming Wang. “Cognitive and Behavioral Subtypes of Alzheimer’s and Lewy Body Dementias with Distinct Clinical Characteristics (P3-9.003).” In Neurology, vol.&nbsp;102, no. 17_supplement_1, p.&nbsp;5199. Hagerstown, MD: Lippincott Williams &amp; Wilkins, 2024.</p></li>
 <li><p>Hongke Wu, Melanie Potiaumpai, Shawna E. Doerksen, FACSM, Vernon M. Chinchilli, Li Wang, Rachel Lintz, Kathryn H. Schmitz, FACSM. Cost Evaluation of An Exercise Oncology Intervention: The ENACT Trial. Poster Presentation at the American College of Sports Medicine (ACSM) 2021 Annual Meeting. June 1-5, 2021; Virtual Meeting. #3715.</p></li>
@@ -590,7 +619,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Philippians 4:13</p>
+<p>Psalm 119:105 Your word is a lamp for my feet, a light on my path.</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

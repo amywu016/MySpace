@@ -15,7 +15,7 @@ website:
         text: Profile
       - href: Publications.qmd
         text: Publications
-  page-footer: "Philippians 4:13"
+  page-footer: "Psalm 119:105 Your word is a lamp for my feet, a light on my path."
 format:
   html:
     theme: quartz
