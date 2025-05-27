@@ -24,7 +24,7 @@ about:
 
 ::: {#ppc}
 
-Experienced biostatistician with medical expertise, adept at developing statistical programs that combine medical knowledge with data-driven techniques for comprehensive insights. Collaborative researcher with a proven track record of working with interdisciplinary teams to design and implement impactful studies, while advocating for public health by providing valuable disease information to patients and healthcare providers.
+I am a Data Scientist Assistant at UAB Medicine, with a multidisciplinary background in clinical medicine, epidemiology, and biostatistics. My current work centers on immunology and rheumatology research, leveraging large real-world datasets such as Medicare Fee-for-Service claims, Komodo Health data, and electronic health records (EHR). I apply advanced statistical methods and data science tools to support research on treatment effectiveness, disease burden, and healthcare utilization. With hands-on experience in SAS, R, and SQL, I aim to generate clinically meaningful insights that inform evidence-based decision-making in patient care and health policy.
 
 ## Education
 
@@ -35,6 +35,8 @@ M.P.H in Epidemiology \| Tulane University \| New Orleans, LA \| Aug 2016 - May 
 M.D. in Clinical Medicine \| Hubei University for Nationalities \| Enshi, China \| Sep 2011 - Jun 2016
 
 ## Working Experience
+
+Data Scientist Assistant \| The University of Alabama at Birmingham \| Nov 2024 - current
 
 Visiting Researcher \| Cleveland Clinic \| Sep 2024 - current
 
@@ -64,7 +66,7 @@ American Association of Cancer Research (AACR) \| Association Member \| Apr 2019
 
 ## Service
 
-Assistant Editor \| The Journal of Student-Run Clinics (JSRC) \| July 2021 - present
+Assistant Editor \| The Journal of Student-Run Clinics (JSRC) \| July 2021 - Sep 2024
 
 Abstract Reviewer \| American Public Health Association (APHA) Annual Meeting \| 2020/2021/2024 
 
