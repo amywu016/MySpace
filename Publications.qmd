@@ -18,7 +18,7 @@ $$\text{2025 Accepted Conference Abstracts}$$
 
 2. Hongke Wu, Ye Liu, Tarun Arora, Jeffrey R Curtis. Bayesian Analysis of Factors Associated with Romosozumab Adherence Among Early Adopters in Medicare Beneficiaries. (ISPE 2025, Abstract ID: 2055366)
 
-3. Ye Liu, Hongke Wu, Tarun Arora, Jeffrey R Curtis. Comedication Patterns of Romosozumab Early Adopters Among Medicare Enrollees: An Unsupervised Clustering Approach. (ISPE 2025)
+3. Ye Liu, Hongke Wu, Tarun Arora, Jeffrey R Curtis. Comedication Patterns of Romosozumab Early Adopters Among Medicare Enrollees: An Unsupervised Clustering Approach. (ISPE 2025, Abstract ID: 2054580)
 
 
 
