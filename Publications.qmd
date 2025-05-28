@@ -3,11 +3,14 @@ title: "Publications"
 format: html
 ---
 
+
 $$\text{In-processed Papers}$$
 
 1. Hongke Wu, Ye Liu, Jingyi Zhang, Bisakha Sen, Jeffrey R. Curtis. Individual and Community-level Determinants of Osteoporosis Treatment Following Fracture Among Medicare Beneficiaries. (Submitted)
 
 2. Hongke Wu, Alicia McDonald, Ming Wang. Association between dietary intake and urinary concentrations of caffeine and caffeine metabolites and elevated serum prostatic specific antigen (PSA) among men at risk for prostate cancer. (Accepted by Cancer Causes Control (2025))
+
+
 
 $$\text{2025 Accepted Conference Abstracts}$$
 
@@ -16,6 +19,8 @@ $$\text{2025 Accepted Conference Abstracts}$$
 2. Hongke Wu, Ye Liu, Tarun Arora, Jeffrey R Curtis. Bayesian Analysis of Factors Associated with Romosozumab Adherence Among Early Adopters in Medicare Beneficiaries. (ISPE 2025, Abstract ID: 2055366)
 
 3. Ye Liu, Hongke Wu, Tarun Arora, Jeffrey R Curtis. Comedication Patterns of Romosozumab Early Adopters Among Medicare Enrollees: An Unsupervised Clustering Approach. (ISPE 2025)
+
+
 
 $$\text{Published Papers/Abstracts}$$
 
