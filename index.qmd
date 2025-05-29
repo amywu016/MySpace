@@ -24,7 +24,7 @@ about:
 
 ::: {#ppc}
 
-I am a Data Scientist Assistant at UAB Medicine, with a multidisciplinary background in clinical medicine, epidemiology, and biostatistics. My current work centers on immunology and rheumatology research, leveraging large real-world datasets such as Medicare Fee-for-Service claims, Komodo Health data, and electronic health records (EHR). I apply advanced statistical methods and data science tools to support research on treatment effectiveness, disease burden, and healthcare utilization. With hands-on experience in SAS, R, and SQL, I aim to generate clinically meaningful insights that inform evidence-based decision-making in patient care and health policy.
+I am a Data Scientist Assistant at UAB Medicine with a multidisciplinary background in clinical medicine, epidemiology, and biostatistics. My research focuses on immunology and rheumatology, where I utilize large real-world databases (e.g. Medicare Fee-for-Service, Komodo Health, and EHR) to investigate treatment effectiveness, disease burden, and healthcare utilization. I work under the supervision of [Dr.Jeffrey Curtis](https://www.fastermedicine.org/jeffrey-curtis) and [Dr.Ye Liu](https://www.uab.edu/soph/home/about/people/faculty/liu-ye), contributing to ongoing projects that integrate advanced statistical modeling with clinical insight. With proficiency in SAS, R, and SQL, I aim to generate evidence that informs patient care and policy decisions.
 
 ## Education
 
