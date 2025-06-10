@@ -6,10 +6,11 @@ format: html
 
 $$\text{In-processed Papers}$$
 
-1. Hongke Wu, Ye Liu, Jingyi Zhang, Bisakha Sen, Jeffrey R. Curtis. Individual and Community-level Determinants of Osteoporosis Treatment Following Fracture Among Medicare Beneficiaries. (Submitted)
+1. Hongke Wu, Ye Liu, Jingyi Zhang, Bisakha Sen, Jeffrey R. Curtis. Individual and Community-level Determinants of Osteoporosis Treatment Following Fracture Among Medicare Beneficiaries. (Under Review)
 
-2. Hongke Wu, Alicia McDonald, Ming Wang. Association between dietary intake and urinary concentrations of caffeine and caffeine metabolites and elevated serum prostatic specific antigen (PSA) among men at risk for prostate cancer. (Accepted by Cancer Causes Control (2025))
+2. Ming A Wang, Hongke Wu, Aaron Bonner-Jackson, Yiming Chen, Wen Tang, Hao Feng, Lijun Zhang, Chixiang Chen, James Leverenz, Jagan A Pillai. Distinct Subtypes with Early Behavioral and Cognitive Changes in Neuropathology Confirmed Dementia. (Under Review)
 
+3. Hongke Wu, Alicia McDonald, Ming Wang. Association between dietary intake and urinary concentrations of caffeine and caffeine metabolites and elevated serum prostatic specific antigen (PSA) among men at risk for prostate cancer. (Accepted by Cancer Causes Control (2025))
 
 
 $$\text{2025 Accepted Conference Abstracts}$$
@@ -49,3 +50,5 @@ $$\text{Published Papers/Abstracts}$$
 12. Potiaumpai M, Doerksen SE, Chinchilli VM, Wu H, Wang L, Lintz R, Schmitz KH. Cost evaluation of an exercise oncology intervention: The exercise in all chemotherapy trial. Cancer Rep (Hoboken). 2021 Jul 8:e1490. doi: 10.1002/cnr2.1490. Epub ahead of print. PMID: 34236137.
 
 13. Guo, Y., Shi, C., Hongke,W., Alabbas, M., Sengupta, S., Sims, O.T. (in progress). Prevalence of Alcohol Use Among People Living with HCV in the United States: An 11-year Epidemiologic Trends Analysis.
+
+14. Miller, Alaina1; Wu, Hongke2; Bowen, Kelly2; Aleyadeh, Wesam2; Flocco, Gianina2; Sims, Omar2; Lindenmeyer, Christina2; Kapoor, Aanchal3. 450: REASON FOR ADMISSION AS A PREDICTOR OF OUTCOMES IN A LIVER DISEASE-SPECIFIC INTENSIVE CARE UNIT. Critical Care Medicine 53(1):, January 2025. | DOI: 10.1097/01.ccm.0001100464.68512.bf 
